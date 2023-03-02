@@ -1,2 +1,3 @@
-# RepositorioHenry
-producto del homework 02 del prepcourse
+Santiago dietrich
+
+Esto es parte del homework 02
